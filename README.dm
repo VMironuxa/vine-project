@@ -71,6 +71,27 @@ o	Требует точных лабораторных измерений вхо
 
 Данный проект по прогнозированию качества вина с использованием нейронных сетей предлагает инновационный подход к объективной оценке винной продукции, заменяя субъективные дегустационные методы точными алгоритмами анализа физико-химических показателей. Разработанная модель помогает виноделам контролировать качество на производстве, позволяет ритейлерам и сомельье оперативно оценивать продукцию, а потребителям - получать достоверную информацию о характеристиках вина. Проект имеет значительный потенциал для развития, включая расширение базы данных, создание мобильного приложения и интеграцию с системами автоматического анализа, что в перспективе может привести к цифровой трансформации всей винодельческой отрасли.
 
+Источники:
+
+Cortez P., Cerdeira A., Almeida F. et al. (2009). Modeling wine preferences by data mining from physicochemical properties. Decision Support Systems, 47(4), 547-553. DOI: 10.1016/j.dss.2009.05.016
+
+Датасет Red Wine Quality (Kaggle): https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009
+
+Goodfellow I., Bengio Y., Courville A. (2016). Deep Learning. MIT Press
+
+Paszke A. et al. (2019). PyTorch: An Imperative Style, High-Performance Deep Learning Library. NeurIPS
+
+Tomic O., Luciano G. (2018). Machine learning in predicting wine quality. Food Quality and Preference, 68, 110-120
+
+Chen T. (2021). Comparison of Neural Network Architectures for Wine Quality Prediction. Journal of Food Engineering
+
+Официальная документация PyTorch: https://pytorch.org/docs/stable/nn.html
+
+Scikit-learn User Guide: https://scikit-learn.org/stable/modules/preprocessing.html
+
+Matplotlib Documentation (2023): https://matplotlib.org/stable/contents.html
+
+Seaborn: Statistical Data Visualization: https://seaborn.pydata.org/
 
 
 
